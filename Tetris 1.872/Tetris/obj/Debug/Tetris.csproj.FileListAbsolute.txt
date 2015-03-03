@@ -1,0 +1,28 @@
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Debug\Tetris.exe.config
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Debug\Tetris.exe
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Debug\Tetris.pdb
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Debug\UniAPI.dll
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\ResolveAssemblyReference.cache
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.frm_main.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.frm_newgame.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.frm_rank.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.frm_Setting.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.exe
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Debug\Tetris.pdb
+I:\연구물\테트리스 산출물1.872\Tetris\bin\Debug\Tetris.exe.config
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Debug\Tetris.exe
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Debug\Tetris.pdb
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.exe
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.pdb
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\bin\Debug\Tetris.exe
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\bin\Debug\Tetris.pdb
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.frm_main.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.frm_newgame.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.frm_rank.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.frm_Setting.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache

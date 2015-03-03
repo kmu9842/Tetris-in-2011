@@ -1,0 +1,47 @@
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Release\Tetris.exe.config
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Release\Tetris.exe
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\bin\Release\UniAPI.dll
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\ResolveAssemblyReference.cache
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.frm_main.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.frm_newgame.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.frm_rank.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.frm_Setting.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.Properties.Resources.resources
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+D:\내 문서\Visual Studio 2008\Projects\테트리스 산출물\Tetris\obj\Release\Tetris.exe
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\ResolveAssemblyReference.cache
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_main.resources
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_newgame.resources
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_rank.resources
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_Setting.resources
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.Properties.Resources.resources
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+I:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.exe
+E:\연구물\테트리스 산출물1.872\Tetris\bin\Release\Tetris.exe.config
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.exe
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\ResolveAssemblyReference.cache
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_main.resources
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_newgame.resources
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_rank.resources
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_Setting.resources
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.Properties.Resources.resources
+E:\연구물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\bin\Release\Tetris.exe.config
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.exe
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_main.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_newgame.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_rank.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.frm_Setting.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 산출물1.872\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\bin\Release\Tetris.exe.config
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.exe
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.frm_main.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.frm_newgame.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.frm_rank.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.frm_Setting.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\obj\Release\Tetris.csproj.GenerateResource.Cache
+C:\Users\MIN\Desktop\포트폴리오\2009년 산출물\2009년 산출물\테트리스 1.872\Tetris\bin\Release\Tetris.exe
